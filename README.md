@@ -11,7 +11,8 @@
 
 ## 📚 Currently Learning
 - Object-Oriented Programming  
-- Web Development  
+- Computer Networking
+- Systems Developing
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/seu-link
+- LinkedIn: https://www.linkedin.com/in/gustavo-silva-5494453a6/
