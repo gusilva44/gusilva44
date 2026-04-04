@@ -1,18 +1,19 @@
 # Hi, I'm Gustavo 👋
 
-💻 IT student focused on software development  
-🚀 Currently learning Java, JavaScript, HTML and CSS  
+💻 IT student focused on software development and web development
+🚀 Currently learning Python, JavaScript, SQL, HTML and CSS  
 
 ## 🔧 Technologies
 - Python
 - JavaScript  
 - HTML  
-- CSS  
+- CSS
+- SQL
 
 ## 📚 Currently Learning
-- Object-Oriented Programming  
 - Computer Networking
 - Systems Developing
+- Cybersecurity
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/gustavo-silva-5494453a6/
