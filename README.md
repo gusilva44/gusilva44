@@ -13,7 +13,7 @@
 ## 📚 Currently Learning
 - Computer Networking
 - Systems Developing
-- Cybersecurity
+- Programming logic
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/gustavo-silva-5494453a6/
