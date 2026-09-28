@@ -44,7 +44,7 @@ Meu objetivo é continuar evoluindo tecnicamente, participar de projetos reais e
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-### DevOps & Ferramentas
+### Ferramentas & Tecnologias
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea" />
 
