@@ -6,7 +6,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-GusDev150-181717?style=for-the-badge\&logo=github)](https://github.com/GusDev150)
+[![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge\&logo=github)](https://github.com/gusilva44)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin)](SEU_LINKEDIN)
 [![Portfólio](https://img.shields.io/badge/Portfólio-SEU_PORTFOLIO-2563EB?style=for-the-badge\&logo=google-chrome\&logoColor=white)](SEU_PORTFOLIO)
 
@@ -121,13 +121,13 @@ Quero transformar o conhecimento adquirido no curso e nos meus projetos em exper
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusDev150&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusilva44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusDev150&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusilva44&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=GusDev150&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=gusilva44&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -137,7 +137,7 @@ Quero transformar o conhecimento adquirido no curso e nos meus projetos em exper
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-GusDev150-181717?style=for-the-badge\&logo=github)](https://github.com/GusDev150)
+[![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge\&logo=github)](https://github.com/gusilva44)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge\&logo=linkedin)](SEU_LINKEDIN)
 
