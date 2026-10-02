@@ -152,15 +152,13 @@ Quero transformar o conhecimento adquirido no curso e nos meus projetos em exper
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true)
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-2563EB?style=for-the-badge\&logo=google-chrome\&logoColor=white)](SEU_PORTFOLIO)
-
 </div>
 
 ---
 
 <div align="center">
 
-### 💻 Code. Learn. Build. Evolve.
+### 💻 Gustavo Silva
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer" />
 
