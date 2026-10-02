@@ -7,14 +7,13 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge\&logo=github)](https://github.com/gusilva44)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin)](SEU_LINKEDIN)
-[![Portfólio](https://img.shields.io/badge/Portfólio-SEU_PORTFOLIO-2563EB?style=for-the-badge\&logo=google-chrome\&logoColor=white)](SEU_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true-0A66C2?style=for-the-badge\&logo=linkedin)](LinkedIn)
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# Sobre mim
 
 Olá! Eu sou **Gustavo Silva**, tenho **17 anos** e moro em **São Paulo, SP**.
 
@@ -28,7 +27,7 @@ Meu objetivo é continuar evoluindo tecnicamente, participar de projetos reais e
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
 <div align="center">
 
@@ -52,44 +51,56 @@ Meu objetivo é continuar evoluindo tecnicamente, participar de projetos reais e
 
 ---
 
-# 🚀 Projetos em destaque
+# Projetos em destaque
 
-## 🎁 Totem de Brindes
+## Totem de Brindes
 
-Sistema **full-stack** desenvolvido para a gestão e automação do processo de resgate e distribuição de brindes em totens interativos.
+O **Totem de Brindes** é uma aplicação **full-stack desenvolvida para automatizar o processo de resgate e distribuição de brindes na Feira de Profissoes 2026 do INSF**.
 
-O projeto possui:
+A aplicação transforma o processo manual de entrega em um fluxo digital: o visitante informa seus dados, escolhe um brinde disponível e realiza seu pedido. O sistema registra a solicitação, gera códigos de identificação e permite que a equipe acompanhe o pedido até a retirada do produto.
 
-* API RESTful
+### Fluxo
+
+**1. Interação:** o visitante acessa o totem e informa seus dados.  
+**2. Escolha:** seleciona um dos brindes disponíveis.  
+**3. Pedido:** a API valida e registra a solicitação no banco de dados.  
+**4. Preparação:** a equipe acompanha os pedidos e prepara os brindes.  
+**5. Retirada:** o visitante utiliza seu código para identificar e retirar o pedido.
+
+### Principais recursos
+
+* Interface interativa para utilização em totens
+* Gestão de produtos, estoque e pedidos
+* Geração de códigos de pedido e retirada
+* Controle do status dos pedidos
 * Autenticação com JWT
 * Validação e middlewares de segurança
-* Persistência em banco de dados
-* Gestão de produtos e brindes
-* Processamento de pedidos e resgates
-* Documentação com Swagger / OpenAPI
+* API RESTful documentada com Swagger / OpenAPI
+* Persistência em PostgreSQL
 * Frontend desenvolvido com React
-* Containerização com Docker
-* Docker Compose para orquestração dos serviços
+* Containerização com Docker e Docker Compose
 
 ### Stack
 
-`React` `Node.js` `Express` `PostgreSQL` `JWT` `Swagger` `Docker`
+`React` `JavaScript` `Node.js` `Express` `PostgreSQL` `Docker`
 
----
+## Feira de Profissões
 
-## 🎓 Feira de Profissões
+Website desenvolvido para a **6ª Feira de Profissões do Instituto Nossa Senhora de Fátima (INSF)**, realizada em 2026.
 
-Website desenvolvido para o **dia da Feira de Profissões** do curso técnico.
+O projeto começou como um **protótipo desenvolvido para a escola** e foi escolhido como o **melhor protótipo entre os projetos apresentados**. A partir disso, passou a ser desenvolvido em conjunto com a instituição e recebeu destaque durante a organização e realização da feira.
 
-O projeto foi criado para apresentar as informações da feira e oferecer uma experiência web organizada para os participantes.
+O sistema foi utilizado oficialmente no evento como uma **plataforma de informação, cadastro e organização da Feira de Profissões**. Nele, os participantes podiam conhecer os **cursos oferecidos pela instituição**, consultar as **salas e espaços da feira**, visualizar **atrações e eventos**, conhecer os **patrocinadores e parceiros** e acompanhar as principais informações do evento.
 
-### Tecnologias
+Além da área destinada aos visitantes, o projeto também conta com um **dashboard administrativo**, permitindo visualizar e gerenciar dados relacionados aos participantes, cadastros e funcionamento da feira.
+
+O projeto foi utilizado para **cadastro, indicação, divulgação e demonstração da Feira de Profissões 2026**, transformando um protótipo acadêmico em uma solução utilizada em um evento real da instituição.
+
+### Stack
 
 `React` `JavaScript` `Sass` `Docker` `Git`
 
----
-
-# 📚 Atualmente
+# Atualmente
 
 Estou aprofundando meus conhecimentos em desenvolvimento de software através de projetos práticos e estudos constantes.
 
@@ -105,7 +116,7 @@ Tenho interesse especialmente em:
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
 Meu objetivo profissional é conquistar minha **primeira oportunidade na área de tecnologia** e continuar evoluindo através de experiências reais.
 
@@ -117,7 +128,7 @@ Quero transformar o conhecimento adquirido no curso e nos meus projetos em exper
 
 ---
 
-# 📊 GitHub
+# GitHub
 
 <div align="center">
 
@@ -139,7 +150,7 @@ Quero transformar o conhecimento adquirido no curso e nos meus projetos em exper
 
 [![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge\&logo=github)](https://github.com/gusilva44)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge\&logo=linkedin)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true-0A66C2?style=for-the-badge\&logo=linkedin)](LinkedIn)
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-2563EB?style=for-the-badge\&logo=google-chrome\&logoColor=white)](SEU_PORTFOLIO)
 
