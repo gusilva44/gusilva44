@@ -7,7 +7,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge\&logo=github)](https://github.com/gusilva44)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU-LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true)
 
 </div>
 
@@ -157,8 +157,6 @@ Quero transformar o conhecimento adquirido no curso e nos meus projetos em exper
 ---
 
 <div align="center">
-
-### 💻 Gustavo Silva
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer" />
 
