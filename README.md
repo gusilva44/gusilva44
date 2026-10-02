@@ -7,7 +7,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge\&logo=github)](https://github.com/gusilva44)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/)
 
 </div>
 
@@ -144,7 +144,7 @@ Quero transformar o conhecimento adquirido no curso e nos meus projetos em exper
 
 ---
 
-# 🌎 Onde me encontrar
+# Onde me encontrar
 
 <div align="center">
 
