@@ -7,7 +7,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge\&logo=github)](https://github.com/gusilva44)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true-0A66C2?style=for-the-badge\&logo=linkedin)](LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU-LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true)
 
 </div>
 
@@ -150,7 +150,7 @@ Quero transformar o conhecimento adquirido no curso e nos meus projetos em exper
 
 [![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge\&logo=github)](https://github.com/gusilva44)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true-0A66C2?style=for-the-badge\&logo=linkedin)](LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true)
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-2563EB?style=for-the-badge\&logo=google-chrome\&logoColor=white)](SEU_PORTFOLIO)
 
