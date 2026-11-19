@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Gustavo%20Silva&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20in%20Training&descAlignY=58&descSize=18" />
 
@@ -6,8 +6,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge\&logo=github)](https://github.com/gusilva44)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/)
+[![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge&logo=github)](https://github.com/gusilva44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/)
 
 </div>
 
@@ -15,13 +15,13 @@
 
 # Sobre mim
 
-Olá! Eu sou **Gustavo Silva**, tenho **17 anos** e moro em **São Paulo, SP**.
+Olá! Eu sou **Gustavo Silva**, estudante de **Técnico em Informática e Desenvolvimento de Sistemas**, em São Paulo, SP.
 
-Sou estudante de **Técnico em Informática e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.
+Sou apaixonado por tecnologia e desenvolvimento de software. Gosto de transformar ideias em projetos reais, explorar novas tecnologias e aprender por meio da prática.
 
-Gosto de transformar ideias em projetos reais, experimentar novas tecnologias e aprender colocando a mão no código.
+Tenho experiência acadêmica e prática no desenvolvimento de aplicações Web, trabalhando com tecnologias de Front-end e Back-end, integração de APIs e gerenciamento de bancos de dados.
 
-Atualmente, estou em busca da minha **primeira oportunidade no mercado de tecnologia**, especialmente em posições de **Jovem Aprendiz, estágio ou desenvolvimento de software**.
+Atualmente, estou em busca da minha **primeira oportunidade no mercado de tecnologia**, especialmente em posições de **Jovem Aprendiz ou Estágio em Desenvolvimento de Software**.
 
 Meu objetivo é continuar evoluindo tecnicamente, participar de projetos reais e construir uma carreira sólida na área de tecnologia.
 
@@ -53,82 +53,118 @@ Meu objetivo é continuar evoluindo tecnicamente, participar de projetos reais e
 
 # Projetos em destaque
 
+## Pet-Amparo (TCC)
+
+**Trabalho de Conclusão de Curso (TCC)** desenvolvido em equipe no Instituto Social Nossa Senhora de Fátima (FREI).
+
+O **Pet-Amparo** é um sistema voltado ao segmento veterinário, desenvolvido com o objetivo de facilitar a gestão de clínicas e a organização dos atendimentos, conectando funcionalidades que auxiliam profissionais e tutores.
+
+O projeto foi desenvolvido como parte da nossa formação técnica, envolvendo planejamento, desenvolvimento, integração de funcionalidades e testes até sua apresentação final, realizada em novembro de 2026.
+
+### Principais funcionalidades
+
+- Gerenciamento de unidades veterinárias.
+- Cadastro e gerenciamento de veterinários.
+- Organização de serviços veterinários.
+- Gerenciamento de disponibilidade dos profissionais.
+- Interface para administração das funcionalidades do sistema.
+- Integração entre Front-end, Back-end e banco de dados.
+
+### Stack
+
+`React` `JavaScript` `Node.js` `Express` `MySQL` `SCSS`
+
+---
+
 ## Totem de Brindes
 
-O **Totem de Brindes** é uma aplicação **full-stack desenvolvida para automatizar o processo de resgate e distribuição de brindes na Feira de Profissoes 2026 do INSF**.
+O **Totem de Brindes** é uma aplicação Full Stack desenvolvida para automatizar o processo de resgate e distribuição de brindes na Feira das Profissões 2026 do Instituto Nossa Senhora de Fátima.
 
 A aplicação transforma o processo manual de entrega em um fluxo digital: o visitante informa seus dados, escolhe um brinde disponível e realiza seu pedido. O sistema registra a solicitação, gera códigos de identificação e permite que a equipe acompanhe o pedido até a retirada do produto.
 
 ### Fluxo
 
-**1. Interação:** o visitante acessa o totem e informa seus dados.  
-**2. Escolha:** seleciona um dos brindes disponíveis.  
-**3. Pedido:** a API valida e registra a solicitação no banco de dados.  
-**4. Preparação:** a equipe acompanha os pedidos e prepara os brindes.  
+**1. Interação:** o visitante acessa o sistema pelo próprio celular e informa seus dados.
+
+**2. Escolha:** seleciona um dos brindes disponíveis.
+
+**3. Pedido:** a API valida e registra a solicitação no banco de dados.
+
+**4. Preparação:** a equipe acompanha os pedidos e prepara os brindes.
+
 **5. Retirada:** o visitante utiliza seu código para identificar e retirar o pedido.
 
 ### Principais recursos
 
-* Interface interativa para utilização em totens
-* Gestão de produtos, estoque e pedidos
-* Geração de códigos de pedido e retirada
-* Controle do status dos pedidos
-* Autenticação com JWT
-* Validação e middlewares de segurança
-* API RESTful documentada com Swagger / OpenAPI
-* Persistência em PostgreSQL
-* Frontend desenvolvido com React
-* Containerização com Docker e Docker Compose
+- Interface interativa para realização de pedidos.
+- Gestão de produtos, estoque e pedidos.
+- Geração de códigos de pedido e retirada.
+- Controle do status dos pedidos.
+- Autenticação com JWT.
+- Validação e middlewares de segurança.
+- API RESTful documentada com Swagger / OpenAPI.
+- Persistência de dados em PostgreSQL.
+- Containerização com Docker e Docker Compose.
 
 ### Stack
 
 `React` `JavaScript` `Node.js` `Express` `PostgreSQL` `Docker`
 
-## Feira de Profissões
+---
 
-Website desenvolvido para a **6ª Feira de Profissões do Instituto Nossa Senhora de Fátima (INSF)**, realizada em 2026.
+## Site da Feira das Profissões 2026
 
-O projeto começou como um **protótipo desenvolvido para a escola** e foi escolhido como o **melhor protótipo entre os projetos apresentados**. A partir disso, passou a ser desenvolvido em conjunto com a instituição e recebeu destaque durante a organização e realização da feira.
+Website desenvolvido para a **Feira das Profissões 2026 do Instituto Nossa Senhora de Fátima (INSF)**.
 
-O sistema foi utilizado oficialmente no evento como uma **plataforma de informação, cadastro e organização da Feira de Profissões**. Nele, os participantes podiam conhecer os **cursos oferecidos pela instituição**, consultar as **salas e espaços da feira**, visualizar **atrações e eventos**, conhecer os **patrocinadores e parceiros** e acompanhar as principais informações do evento.
+O projeto começou como um protótipo acadêmico e foi selecionado como vencedor entre os projetos apresentados, passando a ser desenvolvido para utilização oficial no evento.
 
-Além da área destinada aos visitantes, o projeto também conta com um **dashboard administrativo**, permitindo visualizar e gerenciar dados relacionados aos participantes, cadastros e funcionamento da feira.
+A plataforma foi criada para centralizar informações da feira, facilitar o acesso dos visitantes e auxiliar na organização das atividades.
 
-O projeto foi utilizado para **cadastro, indicação, divulgação e demonstração da Feira de Profissões 2026**, transformando um protótipo acadêmico em uma solução utilizada em um evento real da instituição.
+### Principais funcionalidades
+
+- Página informativa sobre a feira, cursos e atrações.
+- Cadastro de participantes.
+- Geração de QR Codes para identificação dos visitantes.
+- Leitura e validação de QR Codes.
+- Sistema de check-in nas atrações.
+- Registro da participação dos visitantes nas atividades.
+- Dashboard administrativo para acompanhamento e gerenciamento de informações.
 
 ### Stack
 
-`React` `JavaScript` `Sass` `Docker` `Git`
+`React` `JavaScript` `SCSS` `Node.js` `MySQL`
+
+---
 
 # Atualmente
 
-Estou aprofundando meus conhecimentos em desenvolvimento de software através de projetos práticos e estudos constantes.
+Estou aprofundando meus conhecimentos em desenvolvimento de software por meio de projetos práticos e estudos constantes.
 
 Tenho interesse especialmente em:
 
-* Desenvolvimento Full Stack
-* APIs REST
-* Desenvolvimento Web
-* Banco de Dados
-* Arquitetura de sistemas
-* Docker e ambientes de desenvolvimento
-* Boas práticas de programação
+- Desenvolvimento Full Stack.
+- APIs REST.
+- Desenvolvimento Web.
+- Banco de Dados.
+- Arquitetura de sistemas.
+- Docker e ambientes de desenvolvimento.
+- Boas práticas de programação.
 
 ---
 
-# Objetivos
+# Objetivos profissionais
 
-Meu objetivo profissional é conquistar minha **primeira oportunidade na área de tecnologia** e continuar evoluindo através de experiências reais.
+Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e continuar evoluindo por meio de experiências práticas e profissionais.
 
-Busco oportunidades como:
+**Busco oportunidades como:**
 
-**Jovem Aprendiz · Estágio · Primeira oportunidade em TI**
+Jovem Aprendiz · Estágio · Desenvolvimento de Software
 
-Quero transformar o conhecimento adquirido no curso e nos meus projetos em experiência profissional.
+Quero transformar o conhecimento adquirido durante minha formação técnica e meus projetos em experiência profissional.
 
 ---
 
-# GitHub
+# GitHub Stats
 
 <div align="center">
 
@@ -148,9 +184,9 @@ Quero transformar o conhecimento adquirido no curso e nos meus projetos em exper
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge\&logo=github)](https://github.com/gusilva44)
+[![GitHub](https://img.shields.io/badge/GitHub-gusilva44-181717?style=for-the-badge&logo=github)](https://github.com/gusilva44)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/?isSelfProfile=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-silva-5494453a6/)
 
 </div>
 
