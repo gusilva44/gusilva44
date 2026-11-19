@@ -172,10 +172,6 @@ Quero transformar o conhecimento adquirido durante minha formação técnica e m
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusilva44&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=gusilva44&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
